@@ -1,0 +1,82 @@
+body{
+    background-color: rgba(191, 255, 0, 0.74);
+}
+h1{
+    color: blue;
+    font-style:oblique;
+}
+h6{
+    font-size: x-large;
+    height: 0.2cm;
+    font-style: oblique;
+    color: rgb(94, 128, 0);
+    font-weight: 200;
+}
+h3{
+     color: rgb(177, 20, 220);
+     height: 10px;
+     font-weight: 200;
+}
+h4{
+    color: #1695e9;
+    font-size: xx-large;
+    font-style: oblique;
+    height:3px ;
+
+
+}
+h5{
+    color: rgb(94, 128, 0);
+ font-size: 18px;
+ height: 0.1cm;
+ font-weight: 300;
+ font-style: oblique;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 2px solid rgb(119, 128, 0);
+    box-shadow: 1px 1px 3px 3px;
+}
+
+button{ 
+
+    background-color: rgb(255, 217, 0)
+    
+    
+
+    color(srgb rgb(1, 21, 7) green blue);
+color: #030817;
+size: 90px; ;
+    height: 35px;
+    border-radius: 50%;
+
+    position: 60px;;
+    background-position: 45cap;
+    font-size: x-large;
+    width: 115px; 
+    border-color: chocolate;
+    border-radius:2px;
+}
+form{
+    width: 150px;
+    margin-left: 35px;
+    margin: bottom 300px; ;
+    height: 300px;
+    margin-inline-end: 20;
+    font-size: xx-large;
+    background-color: rgb(171, 239, 97);
+    
+    color: rgb(240, 32, 91);
+    border-radius: 50%;
+    box-shadow: 20px;
+    border-color: blue;
+    
+    
+
+}
+
+
+
+
